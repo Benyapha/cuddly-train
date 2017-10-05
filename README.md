@@ -1,3 +1,1 @@
 # cuddly-train
-
-Hello
